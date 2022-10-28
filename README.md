@@ -27,5 +27,4 @@ R Studio
 ## Results ##
 1. Mathematical average prediction for the Wild to win the series - 0.34
 2. Average prediction for the Wild to win the series under Monte Carlo simulation - 0.39
-3. The real result - Knights won the series 4:3 :-(
-  
+3. The real result - Wild loses the series 4:3 :-( Experts predicted and Math confirmed but anyway it's not easy to come away.
